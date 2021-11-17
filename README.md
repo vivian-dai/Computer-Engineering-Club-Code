@@ -8,3 +8,4 @@ Mondays after school, room 1032
 |Lesson Number|Lesson|
 |-|-|
 |01|[Lights](01-Lights/)|
+|02|[Data Types](02-Data%20Types/)|
