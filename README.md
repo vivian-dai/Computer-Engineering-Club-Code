@@ -10,3 +10,4 @@ Mondays after school, room 1032
 |01|[Lights](01-Lights/)|
 |02|[Data Types](02-Data%20Types/)|
 |03|[Serial Monitor](03-Serial%20Monitor/)|
+|04|[Input](04-Input/)|
