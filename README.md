@@ -11,3 +11,4 @@ Mondays after school, room 1032
 |02|[Data Types](02-Data%20Types/)|
 |03|[Serial Monitor](03-Serial%20Monitor/)|
 |04|[Input](04-Input/)|
+|05|[Buzzer](05-Buzzer/)
