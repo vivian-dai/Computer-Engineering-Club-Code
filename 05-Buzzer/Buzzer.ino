@@ -16,7 +16,7 @@
 #include "song.h";
 
 #define buzzerPin 8
-#define bmp 90
+#define bpm 90
 #define beatPerBar 4
 
 
@@ -29,8 +29,8 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   for(int i = 0;i < sizeof(notes)/sizeof(Note);i++) {
-    tone(buzzerPin, notes[i].pitch, int((4*60000/bmp)/notes[i].duration));
-    delay((int)((4*60000/bmp)/notes[i].duration));
+    tone(buzzerPin, notes[i].pitch, int((4*60000/bpm)/notes[i].duration));
+    delay((int)((4*60000/bpm)/notes[i].duration));
     noTone(buzzerPin);
   }
 }
