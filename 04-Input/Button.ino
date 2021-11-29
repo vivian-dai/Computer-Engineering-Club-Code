@@ -4,7 +4,7 @@
  * Checks if a button is pressed or not
  * 
  * The circuit:
- * Buttons connected as INPUT to pin 8
+ * Button connected as INPUT to pin 8
  * 
  * Created 24 November 2021
  * By Vivian Dai
